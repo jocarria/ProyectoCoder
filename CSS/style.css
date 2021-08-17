@@ -1,0 +1,23 @@
+/* nav */
+.navbar-brand {
+  background-color: aqua;
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 1rem;
+  font-size: 1.25rem;
+  text-decoration: none;
+  white-space: nowrap; }
+
+/* fin nav*/
+/*inicio cards*/
+.card-title {
+  background-color: #006eff;
+  margin-bottom: 0.5rem; }
+
+/*fin cards/*
+
+/* Inicio Footer*/
+.footeripio {
+  background-color: #f3f2f2; }
+
+/* Fin Footer */
